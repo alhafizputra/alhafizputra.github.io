@@ -1,0 +1,7 @@
+portfolio img 1326 x 632
+
+parallax type
+1. fix background scrolling body 
+2. gambar, h1 dan p scrollnya berbeda kecepatannya
+3. landing element ke section portfolio, 
+elemen yang muncul ketika ketika scrollnya sudah mencapai ketinggian tertentu
